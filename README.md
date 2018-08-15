@@ -1,4 +1,4 @@
-# AWS_CodeDeploy_Example_From_Hiren_Finally_HOoooooooo
+# AWS_CodeDeploy_Example_From_Hiren_Finally_HOoo
 <br />
 Please make sure that you add the following files to your project for this to work
 <br />
